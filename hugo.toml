@@ -1,0 +1,5 @@
+baseURL = 'https://tghdfj.github.io/'
+languageCode = 'en-us'
+title = 'tghdfj'
+
+theme = 'hugo-theme-stack'
