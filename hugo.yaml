@@ -1,0 +1,7 @@
+baseURL: https://tghdfj.github.io/
+DefaultContentLanguage: en
+languageCode: en-us
+title: tghdfj
+theme: hugo-theme-stack
+
+hasCJKLanguage: true
