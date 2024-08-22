@@ -28,12 +28,3 @@ menu:
           weight: 3
           params:
             icon: brand-bilibili
-
-    main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: 1
-          params:
-            icon: home
-            newTab: false
