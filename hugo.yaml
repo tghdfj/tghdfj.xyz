@@ -1,7 +1,7 @@
 baseURL: https://tghdfj.github.io/
 DefaultContentLanguage: en
 languageCode: en-us
-title: tghdfj
+title: tghdfj -channel-
 theme: hugo-theme-stack
 
 hasCJKLanguage: true
@@ -30,6 +30,8 @@ menu:
             icon: brand-bilibili
 
 params:
+    sidebar:
+        subtitle: hey, this is tghdfj
     widgets:
         homepage:
             - type: search
