@@ -6,7 +6,7 @@ outputs = ["html", "json"]
 [menu]
     [menu.main]
         name = 'Search'
-        weight = 3
+        weight = 4
         [menu.main.params]
             icon = 'search'
 +++

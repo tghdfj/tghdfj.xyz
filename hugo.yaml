@@ -35,3 +35,6 @@ params:
     widgets:
         homepage:
             - type: search
+            - type: categories
+              params:
+                  limit: 10
