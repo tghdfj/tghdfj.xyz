@@ -1,5 +1,6 @@
 ---
-title: "Categories"
+title: 分类
+description: Categories
 layout: categories
 menu: 
     main:
