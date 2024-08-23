@@ -32,9 +32,22 @@ menu:
 params:
     sidebar:
         subtitle: hey, this is tghdfj
+
     widgets:
         homepage:
             - type: search
+
             - type: categories
               params:
                   limit: 10
+
+    opengraph:
+        twitter:
+            site: tghdfj0
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: true
+            local: true
+            src: img/opengraph.png
