@@ -1,0 +1,27 @@
+/*
+*   Global style
+*/
+:root {
+    --tag-border-radius: 8px;
+
+    &[data-scheme="dark"] {
+        --body-background: #010409;
+    }
+}
+
+/*
+*   Card style
+*/
+:root {
+    &[data-scheme="dark"] {
+        --card-background: #121317;
+    }
+}
+
+.container {
+    &.extended {
+        @include respond(xl) {
+            max-width: 1280px;
+        }
+    }
+}
