@@ -18,6 +18,9 @@
     }
 }
 
+/*
+*   Grid size
+*/
 .container {
     &.extended {
         @include respond(md) {
@@ -38,4 +41,13 @@
             --right-sidebar-max-width: 20%;
         }
     }
+}
+
+/**
+*   Global font family
+*/
+:root {
+    --base-font-family: "Noto Serif SC", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
+    --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
 }
