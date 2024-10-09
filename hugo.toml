@@ -1,0 +1,5 @@
+baseURL = 'https://tghdfj.xyz/'
+languageCode = 'en-us'
+title = 'tghdfj -channel-'
+
+theme = 'LoveIt'
