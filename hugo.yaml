@@ -50,11 +50,11 @@ params:
             site: tghdfj0
             card: summary_large_image
 
-    defaultImage:
-        opengraph:
-            enabled: true
-            local: true
-            src: img/opengraph.png
+    #defaultImage:
+    #    opengraph:
+    #        enabled: true
+    #        local: true
+    #        src: img/opengraph.png
 
 markup:
     tableOfContents:

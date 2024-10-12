@@ -3,4 +3,4 @@
 	url = https://github.com/tghdfj/hugo-theme-stack.git
 [submodule "public"]
 	path = public
-	url = https://github.com/tghdfj/tghdfj.github.io.git
+	url = https://github.com/tghdfj/tghdfj.xyz-deploy.git
