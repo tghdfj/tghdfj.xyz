@@ -2,7 +2,7 @@ baseURL: https://tghdfj.xyz/
 DefaultContentLanguage: en
 languageCode: en-us
 paginate: 5
-title: tghdfj -channel-
+title: tghdfj_ track
 theme: hugo-theme-stack
 
 hasCJKLanguage: false
