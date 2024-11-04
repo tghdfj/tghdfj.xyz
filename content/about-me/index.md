@@ -15,6 +15,10 @@ CS student. Trance musician.
 
 [Listen to my releases](/about-me/music/)
 
+## 🌐Where am I from?
+
+Chinese American living in the U.S. for university. My culture is more bound to the Chinese side. Though I am happy to make and have made many friends with diverse backgrounds.
+
 ## 🎼Favorite Music Genre?
 
 Uplifting trance, being energetic while not losing any richness of emotion, is also the most mainstream subgenre of trance music
