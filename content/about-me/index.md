@@ -9,7 +9,7 @@ readingTime = false
             icon = 'id'
 +++
 
-CS student. Trance musician.
+<!-- CS student. Trance musician.
 
 [My Portfolio](/about-me/portfolio/)
 
@@ -29,3 +29,4 @@ Uplifting trance, being energetic while not losing any richness of emotion, is a
 - Looking for internships in computer science
 - Producing more demo tracks to improve skills
 - Aiming to sign world class trance label recordings
+-->
